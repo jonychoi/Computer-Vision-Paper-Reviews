@@ -1,8 +1,8 @@
 # Deep-Learning-Paper-Reviews
 
-## Deep Learning Paper Reviews with Key Summary along Papers & Codes.
+### Deep Learning Paper Reviews with Key Summary along Papers & Codes.
 
-### Transformer
+## Transformer
 
 #### End-to-End Object Detection with Transformers
 
@@ -35,7 +35,7 @@
 - [Original Paper](https://arxiv.org/pdf/2103.13413.pdf)
 
 
-### Image to Image Translation
+## Image to Image Translation
 
 #### Image-to-Image Translation with Conditional Adversarial Networks
 
@@ -49,7 +49,7 @@
 - [Original Paper](https://arxiv.org/pdf/2107.03021.pdf)
 
 
-### Convolutional Neural Network
+## Convolutional Neural Network
 
 #### Deep Residual Learning for Image Recognition
 
@@ -62,7 +62,7 @@
 - [Paper & Code Review](https://github.com/koreaunitas/Deep-Learning-Paper-Reviews/tree/main/Convolutional%20Neural%20Network/EfficientNet%20-%20Rethinking%20Model%20Scaling%20for%20Convolutional%20Neural%20Networks)
 - [Original Paper](https://arxiv.org/pdf/1905.11946.pdf)
 
-### Object Detection / Segmentation
+## Object Detection / Segmentation
 
 #### Panoptic Feature Pyramid Networks
 
@@ -74,7 +74,7 @@
 
 #### PointRend: Image Segmentation as Rendering
 
-### Representation Learning
+## Representation Learning
 
 #### Unsupervised Feature Learning via Non-Parametric Instance Discrimination
 
@@ -86,7 +86,7 @@
 
 #### Exploring Simple Siamese Representation Learning
 
-### Image Generation
+## Image Generation
 
 #### Generative Adversarial Networks
 
@@ -98,10 +98,10 @@
 
 #### Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
 
-### Vision and Language
+## Vision and Language
 
-### Depth Estimation
+## Depth Estimation
 
-### Correspondence
+## Correspondence
 
-### Implicit Field
+## Implicit Field
