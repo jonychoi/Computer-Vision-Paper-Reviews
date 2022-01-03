@@ -61,3 +61,47 @@
 
 - [Paper & Code Review](https://github.com/koreaunitas/Deep-Learning-Paper-Reviews/tree/main/Convolutional%20Neural%20Network/EfficientNet%20-%20Rethinking%20Model%20Scaling%20for%20Convolutional%20Neural%20Networks)
 - [Original Paper](https://arxiv.org/pdf/1905.11946.pdf)
+
+### Object Detection / Segmentation
+
+#### Panoptic Feature Pyramid Networks
+
+#### Mask R-CNN
+
+#### Cost Aggregation Is All You Need for Few-Shot Segmentation
+
+#### YOLOv4: Optimal Speed and Accuracy of Object Detection
+
+#### PointRend: Image Segmentation as Rendering
+
+### Representation Learning
+
+#### Unsupervised Feature Learning via Non-Parametric Instance Discrimination
+
+#### Momentum Contrast for Unsupervised Visual Representation Learning.
+
+#### A Simple Framework for Contrastive Learning of Visual Representations
+
+#### Bootstrap Your Own Latent- A New Approach to Self-supervised Learning
+
+#### Exploring Simple Siamese Representation Learning
+
+### Image Generation
+
+#### Generative Adversarial Networks
+
+#### A Style-Based Generator Architecture for Generative Adversarial Networks
+
+#### GAN Dissection: Visualizing and Understanding Generative Adversarial Networks
+
+#### Semantic Image Synthesis with Spatially-Adaptive Normalization
+
+#### Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
+
+### Vision and Language
+
+### Depth Estimation
+
+### Correspondence
+
+### Implicit Field
