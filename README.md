@@ -81,7 +81,7 @@
 
 #### YOLOv4: Optimal Speed and Accuracy of Object Detection
 
-- [Paper & Code Review]()
+- [Paper & Code Review](https://github.com/koreaunitas/Deep-Learning-Paper-Reviews/tree/main/Object%20Detection%20%26%20Segmentation/YOLOv4%20-%20Optimal%20Speed%20and%20Accuracy%20of%20Object%20Detection)
 - [Original Paper](https://arxiv.org/pdf/2004.10934v1.pdf)
 
 #### PointRend: Image Segmentation as Rendering
