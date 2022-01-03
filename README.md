@@ -13,6 +13,8 @@
 - Representation Learning
 - Object Detection & Segmentation
 
+Currently working on. Only * has contents.
+
 ## Transformer
 
 #### End-to-End Object Detection with Transformers
@@ -48,7 +50,7 @@
 
 ## Image to Image Translation
 
-#### Image-to-Image Translation with Conditional Adversarial Networks
+#### Image-to-Image Translation with Conditional Adversarial Networks (CVPR 2017)*
 
 - [Paper & Code Review](https://github.com/koreaunitas/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Image-to-Image%20Translation%20with%20Conditional%20Adversarial%20Networks)
 - [Original Paper](https://arxiv.org/abs/1611.07004)
