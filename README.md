@@ -2,7 +2,7 @@
 
 ### Deep Learning Paper Reviews with Key Summary along Papers & Codes.
 
-Written By Jonathan Choi.
+#### Jonathan Choi 2021.
 
 50+ papers across various fields, Transformer, Image to Image Translation, Image Generation, CNN, Representation Learning, Object Detection & Segmentation etc.
 
