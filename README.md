@@ -2,6 +2,10 @@
 
 ### Deep Learning Paper Reviews with Key Summary along Papers & Codes.
 
+Written By Jonathan Choi.
+
+50+ papers across various fields, Transformer, Image to Image Translation, Image Generation, CNN, Representation Learning, Object Detection & Segmentation etc.
+
 ## Transformer
 
 #### End-to-End Object Detection with Transformers
