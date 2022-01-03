@@ -39,13 +39,13 @@
 
 #### Image-to-Image Translation with Conditional Adversarial Networks
 
-- [Paper & Code Review](https://github.com/koreaunitas/Deep-Learning-Paper-Reviews/tree/main/Attention_Is_All_You_Need)
-- [Original Paper](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
+- [Paper & Code Review](https://github.com/koreaunitas/Deep-Learning-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Image-to-Image%20Translation%20with%20Conditional%20Adversarial%20Networks)
+- [Original Paper](https://arxiv.org/abs/1611.07004)
 
 
 #### Bi-level Feature Alignment for Versatile Image Translation and Manipulation
 
-- [Paper & Code Review]()
+- [Paper & Code Review](https://github.com/koreaunitas/Deep-Learning-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Bi-level%20Feature%20Alignment%20for%20Versatile%20Image%20Translation%20and%20Manipulation)
 - [Original Paper](https://arxiv.org/pdf/2107.03021.pdf)
 
 
@@ -53,11 +53,11 @@
 
 #### Deep Residual Learning for Image Recognition
 
-- [Paper & Code Review]()
+- [Paper & Code Review](https://github.com/koreaunitas/Deep-Learning-Paper-Reviews/tree/main/Convolutional%20Neural%20Network/Deep%20Residual%20Learning%20for%20Image%20Recognition)
 - [Original Paper](https://arxiv.org/pdf/1512.03385.pdf)
 
 
 #### EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
 
-- [Paper & Code Review]()
+- [Paper & Code Review](https://github.com/koreaunitas/Deep-Learning-Paper-Reviews/tree/main/Convolutional%20Neural%20Network/EfficientNet%20-%20Rethinking%20Model%20Scaling%20for%20Convolutional%20Neural%20Networks)
 - [Original Paper](https://arxiv.org/pdf/1905.11946.pdf)
