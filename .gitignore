@@ -8,7 +8,9 @@ __pycache__/
 
 #vscode
 .vscode/
-.datasets/
+
+#datasets
+datasets/
 
 # Distribution / packaging
 .Python
