@@ -11,12 +11,7 @@ Currently working on. Only * has contents.
 
 ## Configuration
 
-- ***Paper_Review_Practice*** is including 
-> **KEY SUMMARY** according to the flow of 
-
-> **ORIGINAL PAPER** with the 
-
-> **PRACTICE OF CODES**.
+- ***Paper_Review_Practice*** is including **KEY SUMMARY** according to the flow of **ORIGINAL PAPER** with the **PRACTICE OF CODES**.
 
 
 - ***Paper-Only*** is only including the ORIGINAL PAPER edited to jupyter notebook.
