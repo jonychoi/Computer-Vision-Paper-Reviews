@@ -11,16 +11,16 @@ Currently working on. Only * has contents.
 
 ## Configuration
 
-- **[Paper Name]-Paper_Review_Practice.ipynb** is including **key summary** according to the flow of **original paper** with the **practice of codes**.
+- **[Paper Name]-Paper_Review_Practice.ipynb** is including **KEY SUMMARY** according to the flow of **ORIGINAL PAPER** with the **PRACTICE OF CODES**.
 
 
-- **[Paper Name]-Paper-Only.ipynb** is only including the original paper edited to jupyter notebook.
+- **[Paper Name]-Paper-Only.ipynb** is only including the ORIGINAL PAPER edited to jupyter notebook.
 
 
-- **[Paper Name]-Practice-Only.ipynb** is only including the **practice of codes**.
+- **[Paper Name]-Practice-Only.ipynb** is only including the **PRACTICE OF CODES**.
 
 
-- **[Paper Name]-Review-Only.ipynb** is including only **key summary** without the original paper.
+- **[Paper Name]-Review-Only.ipynb** is including only **KEY SUMMARY** without the ORIGINAL PAPER.
 
 ---
 
