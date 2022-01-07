@@ -9,6 +9,21 @@ Currently working on. Only * has contents.
 
 ---
 
+## Configuration
+
+- **[Paper Name]-Paper_Review_Practice.ipynb** is including **key summary** according to the flow of **original paper** with the **practice of codes**.
+
+
+- **[Paper Name]-Paper-Only.ipynb** is only including the original paper edited to jupyter notebook.
+
+
+- **[Paper Name]-Practice-Only.ipynb** is only including the **practice of codes**.
+
+
+- **[Paper Name]-Review-Only.ipynb** is including only **key summary** without the original paper.
+
+---
+
 ## Index
 
 - [Implicit Neural Representation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#implicit-neural-representation)
