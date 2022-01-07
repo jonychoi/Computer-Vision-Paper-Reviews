@@ -2,9 +2,9 @@
 
 ### Computer Vision Paper Reviews with Key Summary along Papers & Codes.
 
-#### Jonathan Choi 2021
+#### Originially Edited By Jonathan Choi 2021
 
-Computer-Vision-Paper-Reviews provides 50+ Papers across Computer Vision fields converted as Jupyter Notebook, with the Key Summary and End to End Code Practice.
+The repository provides 100+ Papers across Computer Vision fields converted as **Jupyter Notebook**, with the **Key Summary** and **End to End Code Practice**.
 
 Currently working on. Only * has contents.
 
