@@ -12,7 +12,7 @@ Currently working on. Only * has contents.
 
 ## Configuration
 
-***Category/Paper/***
+***[Category/Paper/]***
 
 **ㄴ Paper_Review_Practice.ipynb** includes
 - **Key Summary** according to the flow of 
