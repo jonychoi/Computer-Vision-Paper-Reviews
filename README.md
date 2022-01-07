@@ -2,10 +2,10 @@
 
 ### Computer Vision Paper Reviews with Key Summary along Papers & Codes.
 
-### Jonathan Choi 2021
-
 50+ Papers across Computer Vision fields (Adding)
 Currently working on. Only * has contents.
+
+#### Jonathan Choi 2021
 
 ---
 
