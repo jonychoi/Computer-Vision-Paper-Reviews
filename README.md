@@ -1,6 +1,6 @@
 # Computer-Vision-Paper-Reviews
 
-### Computer Vision Paper Reviews with Key Summary along Papers & Codes.
+### Computer Vision Paper Reviews with Key Summary along Papers & End to End Code Practice.
 
 #### Originially Edited By Jonathan Choi 2021
 
