@@ -17,11 +17,6 @@ Currently working on. Only * has contents.
 
 ## Implicit Neural Representation
 
-#### Geometric Style Transfer
-
-- [Paper & Code Review]()
-- [Original Paper](https://arxiv.org/pdf/2007.05471.pdf)
-
 #### Convolutional neural network architecture for geometric matching
 
 - [Paper & Code Review]()
@@ -36,6 +31,11 @@ Currently working on. Only * has contents.
 
 - [Paper & Code Review]()
 - [Original Paper](https://arxiv.org/pdf/1603.08155.pdf)
+
+#### Geometric Style Transfer
+
+- [Paper & Code Review]()
+- [Original Paper](https://arxiv.org/pdf/2007.05471.pdf)
 
 ## Image to Image Translation
 
