@@ -24,7 +24,7 @@ Currently working on. Only * has contents.
 
 ## Completed / Working Papers
 
-- [YOLOv4: Optimal Speed and Accuracy of Object Detection](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#yolov4-optimal-speed-and-accuracy-of-object-detection)
+- [YOLOv4: Optimal Speed and Accuracy of Object Detection](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#yolov4-optimal-speed-and-accuracy-of-object-detection)[2022-1-8]
 - [Convolutional neural network architecture for geometric matching](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#convolutional-neural-network-architecture-for-geometric-matching)
 - [A Neural Algorithm of Artistic Style](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#a-neural-algorithm-of-artistic-style)
 - [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#perceptual-losses-for-real-time-style-transfer-and-super-resolution)
