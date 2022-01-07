@@ -14,16 +14,19 @@ Currently working on. Only * has contents.
 - ***Paper_Review_Practice*** is including 
     - **KEY SUMMARY** according to the flow of 
     - **ORIGINAL PAPER (Jupyter Notebook Edited)** with the 
-    - **PRACTICE OF CODES**.
+    - **End to End CODE PRACTICE**.
 
 
-- ***Paper-Only*** is only including the ORIGINAL PAPER edited to jupyter notebook.
+- ***Paper-Only*** is only including the 
+    - ORIGINAL PAPER
 
 
-- ***Practice-Only*** is only including the **PRACTICE OF CODES**.
+- ***Practice-Only*** is only including
+    - **End to End CODE PRACTICE**.
 
 
-- ***Review-Only*** is including only **KEY SUMMARY** without the ORIGINAL PAPER.
+- ***Review-Only*** is only including
+    - **KEY SUMMARY**
 
 ---
 
