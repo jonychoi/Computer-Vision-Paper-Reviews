@@ -13,7 +13,9 @@ Currently working on. Only * has contents.
 
 - ***Paper_Review_Practice*** is including 
 > **KEY SUMMARY** according to the flow of 
+
 > **ORIGINAL PAPER** with the 
+
 > **PRACTICE OF CODES**.
 
 
