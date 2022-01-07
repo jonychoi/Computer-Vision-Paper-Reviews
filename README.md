@@ -4,7 +4,8 @@
 
 #### Jonathan Choi 2021
 
-50+ Papers across Computer Vision fields (Adding)
+Computer-Vision-Paper-Reviews provides 50+ Papers across Computer Vision fields converted as Jupyter Notebook, with the Key Summary and End to End Code Practice.
+
 Currently working on. Only * has contents.
 
 ---
