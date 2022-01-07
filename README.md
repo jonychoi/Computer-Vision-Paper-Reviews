@@ -9,7 +9,7 @@ Currently working on. Only * has contents.
 
 ---
 
-## Index
+## INDEX
 
 #### [1. Implicit Neural Representation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#implicit-neural-representation)
 #### [2. Image to Image Translation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#image-to-image-translation)
