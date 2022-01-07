@@ -11,16 +11,16 @@ Currently working on. Only * has contents.
 
 ## Configuration
 
-- **Paper_Review_Practice** is including **KEY SUMMARY** according to the flow of **ORIGINAL PAPER** with the **PRACTICE OF CODES**.
+- ***Paper_Review_Practice*** is including **KEY SUMMARY** according to the flow of **ORIGINAL PAPER** with the **PRACTICE OF CODES**.
 
 
-- **Paper-Only** is only including the ORIGINAL PAPER edited to jupyter notebook.
+- ***Paper-Only*** is only including the ORIGINAL PAPER edited to jupyter notebook.
 
 
-- **Practice-Only** is only including the **PRACTICE OF CODES**.
+- ***Practice-Only*** is only including the **PRACTICE OF CODES**.
 
 
-- **Review-Only** is including only **KEY SUMMARY** without the ORIGINAL PAPER.
+- ***Review-Only*** is including only **KEY SUMMARY** without the ORIGINAL PAPER.
 
 ---
 
