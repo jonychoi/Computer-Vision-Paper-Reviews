@@ -1,11 +1,15 @@
 # Computer-Vision-Paper-Reviews
 
-## Computer Vision Paper Reviews with Key Summary along Papers & Codes.
+### Computer Vision Paper Reviews with Key Summary along Papers & Codes.
 
 ### Jonathan Choi 2021
 
 50+ Papers across Computer Vision fields (Adding)
 Currently working on. Only * has contents.
+
+---
+
+## Index
 
 #### [1. Implicit Neural Representation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#implicit-neural-representation)
 #### [2. Image to Image Translation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#image-to-image-translation)
