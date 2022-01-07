@@ -4,16 +4,19 @@
 
 ### Jonathan Choi 2021
 
-50+ Papers across Computer Vision fields
+### 50+ Papers across Computer Vision fields [Adding]
 
-- Transformer
-- Image to Image Translation
-- Image Generation
-- Convolutional Neural Networks
-- Representation Learning
-- Object Detection & Segmentation
+### - [1. Implicit Neural Representation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#implicit-neural-representation)
+### - [2. Image to Image Translation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#image-to-image-translation)
+### - [3. Object Detection & Segmentation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#object-detection--segmentation)
+### - [4. Transformer](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#transformer)
+### - [5. Image Generation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#image-generation)
+### - [6. Convolutional Neural Networks](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#convolutional-neural-network)
+### - [7. Representation Learning](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#representation-learning)
 
 Currently working on. Only * has contents.
+
+
 
 ---
 
