@@ -1,8 +1,8 @@
 # Computer-Vision-Paper-Reviews
 
-### Computer Vision Paper Reviews with Key Summary along Papers & Codes.
+## Computer Vision Paper Reviews with Key Summary along Papers & Codes.
 
-#### Jonathan Choi 2021
+### Jonathan Choi 2021
 
 50+ Papers across Computer Vision fields
 
@@ -14,6 +14,8 @@
 - Object Detection & Segmentation
 
 Currently working on. Only * has contents.
+
+---
 
 ## Implicit Neural Representation
 
@@ -32,14 +34,16 @@ Currently working on. Only * has contents.
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Perceptual%20Losses%20for%20Real-Time%20Style%20Transfer%20and%20Super-Resolution)
 - [Original Paper](https://arxiv.org/pdf/1603.08155.pdf)
 
-#### Geometric Style Transfer
+#### Geometric Style Transfer**
 
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Geometric%20Style%20Transfer)
 - [Original Paper](https://arxiv.org/pdf/2007.05471.pdf)
 
+---
+
 ## Image to Image Translation
 
-#### Image-to-Image Translation with Conditional Adversarial Networks (CVPR 2017)*
+#### Image-to-Image Translation with Conditional Adversarial Networks (CVPR 2017)**
 
 - [Paper & Code Review](https://github.com/koreaunitas/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Image-to-Image%20Translation%20with%20Conditional%20Adversarial%20Networks)
 - [Original Paper](https://arxiv.org/abs/1611.07004)
@@ -49,6 +53,8 @@ Currently working on. Only * has contents.
 
 - [Paper & Code Review](https://github.com/koreaunitas/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Bi-level%20Feature%20Alignment%20for%20Versatile%20Image%20Translation%20and%20Manipulation)
 - [Original Paper](https://arxiv.org/pdf/2107.03021.pdf)
+
+---
 
 ## Transformer
 
@@ -67,7 +73,7 @@ Currently working on. Only * has contents.
 - [Paper & Code Review](https://github.com/koreaunitas/Computer-Vision-Paper-Reviews/tree/main/Transformer/MLP-Mixer%20-%20An%20all-MLP%20Architecture%20for%20Vision)
 - [Original Paper](https://arxiv.org/pdf/2105.01601.pdf)
 
-#### Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
+#### Swin Transformer: Hierarchical Vision Transformer using Shifted Windows**
 
 - [Paper & Code Review](https://github.com/koreaunitas/Computer-Vision-Paper-Reviews/tree/main/Transformer/Swin%20Transformer-%20Hierarchical%20Vision%20Transformer%20using%20Shifted%20Windows)
 - [Original Paper](https://arxiv.org/pdf/2103.14030.pdf)
@@ -83,6 +89,7 @@ Currently working on. Only * has contents.
 - [Paper & Code Review](https://github.com/koreaunitas/Computer-Vision-Paper-Reviews/tree/main/Vision_Transformers_for_Dense_Prediction)
 - [Original Paper](https://arxiv.org/pdf/2103.13413.pdf)
 
+---
 
 ## Convolutional Neural Network
 
@@ -96,6 +103,8 @@ Currently working on. Only * has contents.
 
 - [Paper & Code Review](https://github.com/koreaunitas/Computer-Vision-Paper-Reviews/tree/main/Convolutional%20Neural%20Network/EfficientNet%20-%20Rethinking%20Model%20Scaling%20for%20Convolutional%20Neural%20Networks)
 - [Original Paper](https://arxiv.org/pdf/1905.11946.pdf)
+
+---
 
 ## Object Detection / Segmentation
 
@@ -114,7 +123,7 @@ Currently working on. Only * has contents.
 - [Paper & Code Review](https://github.com/koreaunitas/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection%20%26%20Segmentation/Cost%20Aggregation%20Is%20All%20You%20Need%20for%20Few-Shot%20Segmentation)
 - [Original Paper](https://arxiv.org/abs/2112.11685)
 
-#### YOLOv4: Optimal Speed and Accuracy of Object Detection
+#### YOLOv4: Optimal Speed and Accuracy of Object Detection**
 
 - [Paper & Code Review](https://github.com/koreaunitas/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection%20%26%20Segmentation/YOLOv4%20-%20Optimal%20Speed%20and%20Accuracy%20of%20Object%20Detection)
 - [Original Paper](https://arxiv.org/pdf/2004.10934v1.pdf)
@@ -123,6 +132,8 @@ Currently working on. Only * has contents.
 
 - [Paper & Code Review](https://github.com/koreaunitas/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection%20%26%20Segmentation/PointRend%20-%20Image%20Segmentation%20as%20Rendering)
 - [Original Paper](https://arxiv.org/pdf/1912.08193.pdf)
+
+---
 
 ## Representation Learning
 
@@ -151,6 +162,8 @@ Currently working on. Only * has contents.
 - [Paper & Code Review](https://github.com/koreaunitas/Computer-Vision-Paper-Reviews/tree/main/Representation%20Learning/Exploring%20Simple%20Siamese%20Representation%20Learning)
 - [Original Paper](https://arxiv.org/pdf/2011.10566.pdf)
 
+---
+
 ## Image Generation
 
 #### Generative Adversarial Networks
@@ -178,10 +191,18 @@ Currently working on. Only * has contents.
 - [Paper & Code Review](https://github.com/koreaunitas/Computer-Vision-Paper-Reviews/tree/main/Image%20Generation/Unpaired%20Image-to-Image%20Translation%20using%20Cycle-Consistent%20Adversarial%20Networks)
 - [Original Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf)
 
+---
+
 ## Vision and Language
+
+---
 
 ## Depth Estimation
 
+---
+
 ## Correspondence
+
+---
 
 ## Implicit Field
