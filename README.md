@@ -12,22 +12,22 @@ Currently working on. Only * has contents.
 
 ## Configuration
 
-- **Paper_Review_Practice.ipynb** is including 
+- **Paper_Review_Practice.ipynb** includes
     - **Key Summary** according to the flow of 
     - **Original Paper (Jupyter Notebook Edited)** with the 
     - **End to End Code Practice**.
 
 
-- **Paper-Only.ipynb** is only including the 
-    - Original Paper
+- **Paper-Only.ipynb** includes
+    - Original Paper (Jupyter Notebook Edited)
 
 
 - **Practice-Only.ipynb** is only including
-    - **End to End Code Practice**.
+    - End to End Code Practice
 
 
 - **Review-Only.ipynb** is only including
-    - **Key Summary**
+    - Key Summary
 
 ---
 
