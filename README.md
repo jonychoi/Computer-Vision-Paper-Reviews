@@ -22,11 +22,11 @@ Currently working on. Only * has contents.
     - Original Paper (Jupyter Notebook Edited)
 
 
-- **Practice-Only.ipynb** is only including
+- **Practice-Only.ipynb** includes
     - End to End Code Practice
 
 
-- **Review-Only.ipynb** is only including
+- **Review-Only.ipynb** includes
     - Key Summary
 
 ---
