@@ -18,15 +18,15 @@ Currently working on. Only * has contents.
     - **End to End Code Practice**.
 
 
-- **Paper-Only.ipynb** includes
+- **Paper.ipynb** includes
     - Original Paper (Jupyter Notebook Edited)
 
 
-- **Practice-Only.ipynb** includes
+- **Practice.ipynb** includes
     - End to End Code Practice
 
 
-- **Review-Only.ipynb** includes
+- **Review.ipynb** includes
     - Key Summary
 
 ---
