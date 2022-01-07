@@ -15,6 +15,41 @@
 
 Currently working on. Only * has contents.
 
+## Implicit Neural Representation
+
+#### Geometric Style Transfer
+
+- [Paper & Code Review]()
+- [Original Paper](https://arxiv.org/pdf/2007.05471.pdf)
+
+#### Convolutional neural network architecture for geometric matching
+
+- [Paper & Code Review]()
+- [Original Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Rocco_Convolutional_Neural_Network_CVPR_2017_paper.pdf)
+
+#### A Neural Algorithm of Artistic Style
+
+- [Paper & Code Review]()
+- [Original Paper](https://arxiv.org/pdf/1508.06576.pdf)
+
+#### Perceptual Losses for Real-Time Style Transfer and Super-Resolution
+
+- [Paper & Code Review]()
+- [Original Paper](https://arxiv.org/pdf/1603.08155.pdf)
+
+## Image to Image Translation
+
+#### Image-to-Image Translation with Conditional Adversarial Networks (CVPR 2017)*
+
+- [Paper & Code Review](https://github.com/koreaunitas/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Image-to-Image%20Translation%20with%20Conditional%20Adversarial%20Networks)
+- [Original Paper](https://arxiv.org/abs/1611.07004)
+
+
+#### Bi-level Feature Alignment for Versatile Image Translation and Manipulation
+
+- [Paper & Code Review](https://github.com/koreaunitas/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Bi-level%20Feature%20Alignment%20for%20Versatile%20Image%20Translation%20and%20Manipulation)
+- [Original Paper](https://arxiv.org/pdf/2107.03021.pdf)
+
 ## Transformer
 
 #### End-to-End Object Detection with Transformers
@@ -47,20 +82,6 @@ Currently working on. Only * has contents.
 
 - [Paper & Code Review](https://github.com/koreaunitas/Computer-Vision-Paper-Reviews/tree/main/Vision_Transformers_for_Dense_Prediction)
 - [Original Paper](https://arxiv.org/pdf/2103.13413.pdf)
-
-
-## Image to Image Translation
-
-#### Image-to-Image Translation with Conditional Adversarial Networks (CVPR 2017)*
-
-- [Paper & Code Review](https://github.com/koreaunitas/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Image-to-Image%20Translation%20with%20Conditional%20Adversarial%20Networks)
-- [Original Paper](https://arxiv.org/abs/1611.07004)
-
-
-#### Bi-level Feature Alignment for Versatile Image Translation and Manipulation
-
-- [Paper & Code Review](https://github.com/koreaunitas/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Bi-level%20Feature%20Alignment%20for%20Versatile%20Image%20Translation%20and%20Manipulation)
-- [Original Paper](https://arxiv.org/pdf/2107.03021.pdf)
 
 
 ## Convolutional Neural Network
