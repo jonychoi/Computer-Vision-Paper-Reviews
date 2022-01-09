@@ -143,10 +143,35 @@ Currently working on. Only * has contents.
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection/Panoptic%20Feature%20Pyramid%20Networks)
 - [Original Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kirillov_Panoptic_Feature_Pyramid_Networks_CVPR_2019_paper.pdf)
 
+#### Selective Search for Object Recognition
+
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection/Selective%20Search%20for%20Object%20Recognition)
+- [Original Paper](https://www.researchgate.net/publication/262270555_Selective_Search_for_Object_Recognition)
+
+#### R-CNN
+
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection/R-CNN)
+- [Original Paper](https://arxiv.org/pdf/1311.2524.pdf)
+
+#### Fast R-CNN
+
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection/Fast%20R-CNN)
+- [Original Paper](https://arxiv.org/pdf/1504.08083.pdf)
+
+#### Faster R-CNN
+
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection/Faster%20R-CNN)
+- [Original Paper](https://arxiv.org/pdf/1506.01497.pdf)
+
 #### Mask R-CNN
 
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection/Mask%20R-CNN)
 - [Original Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)
+
+#### Sparse R-CNN
+
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection/Sparse%20R-CNN)
+- [Original Paper](https://arxiv.org/pdf/2011.12450.pdf)
 
 #### YOLOv4: Optimal Speed and Accuracy of Object Detection**
 
