@@ -123,12 +123,12 @@ Currently working on. Only * has contents.
 
 ## Transformer
 
-#### End-to-End Object Detection with Transformers
+#### [DETR] End-to-End Object Detection with Transformers
 
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Transformer/End-to-End%20Object%20Detection%20with%20Transformers)
 - [Original Paper](https://arxiv.org/pdf/2103.13413.pdf)
 
-#### An Image Is Worth 16x16 Words: Transformers For Image Recognition at Scale
+#### [Vision Transformer] An Image Is Worth 16x16 Words: Transformers For Image Recognition at Scale
 
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Transformer/An%20Image%20is%20Worth%2016x16%20Words%20-%20Transformers%20for%20Image%20Recognition%20at%20Scale)
 - [Original Paper](https://arxiv.org/pdf/2010.11929.pdf)
@@ -144,7 +144,7 @@ Currently working on. Only * has contents.
 - [Original Paper](https://arxiv.org/pdf/2103.14030.pdf)
 - [Official Github](https://github.com/microsoft/Swin-Transformer)
 
-#### Attention Is All You Need
+#### [Transformer] Attention Is All You Need
 
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Transformer/Attention%20Is%20All%20You%20Need)
 - [Original Paper](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
