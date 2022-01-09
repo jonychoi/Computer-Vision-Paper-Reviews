@@ -136,21 +136,6 @@ Currently working on. Only * has contents.
 
 ---
 
-## Convolutional Neural Network
-
-#### Deep Residual Learning for Image Recognition
-
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Convolutional%20Neural%20Network/Deep%20Residual%20Learning%20for%20Image%20Recognition)
-- [Original Paper](https://arxiv.org/pdf/1512.03385.pdf)
-
-
-#### EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
-
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Convolutional%20Neural%20Network/EfficientNet%20-%20Rethinking%20Model%20Scaling%20for%20Convolutional%20Neural%20Networks)
-- [Original Paper](https://arxiv.org/pdf/1905.11946.pdf)
-
----
-
 ## Object Detection
 
 #### Panoptic Feature Pyramid Networks
@@ -182,6 +167,20 @@ Currently working on. Only * has contents.
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Segmentation/Cost%20Aggregation%20Is%20All%20You%20Need%20for%20Few-Shot%20Segmentation)
 - [Original Paper](https://arxiv.org/abs/2112.11685)
 
+---
+
+## Convolutional Neural Network
+
+#### Deep Residual Learning for Image Recognition
+
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Convolutional%20Neural%20Network/Deep%20Residual%20Learning%20for%20Image%20Recognition)
+- [Original Paper](https://arxiv.org/pdf/1512.03385.pdf)
+
+
+#### EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
+
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Convolutional%20Neural%20Network/EfficientNet%20-%20Rethinking%20Model%20Scaling%20for%20Convolutional%20Neural%20Networks)
+- [Original Paper](https://arxiv.org/pdf/1905.11946.pdf)
 
 ---
 
