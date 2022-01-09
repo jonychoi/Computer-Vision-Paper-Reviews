@@ -14,21 +14,21 @@ Currently working on. Only * has contents.
 
 ***[Category/Paper/]***
 
-**ㄴ Paper_Review_Practice.ipynb** includes
+#### **Paper_Review_Practice.ipynb** includes
 - **Key Summary** according to the flow of 
 - **Original Paper (Jupyter Notebook Edited)** with the 
 - **End to End Code Practice**
 
 
-**ㄴ Paper.ipynb** includes
+#### **Paper.ipynb** includes
 - Original Paper (Jupyter Notebook Edited)
 
 
-**ㄴ Practice.ipynb** includes
+#### **Practice.ipynb** includes
 - End to End Code Practice
 
 
-**ㄴ Review.ipynb** includes
+#### **Review.ipynb** includes
 - Key Summary
 
 ---
