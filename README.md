@@ -138,6 +138,11 @@ Currently working on. Only * has contents.
 
 ## Object Detection
 
+#### Feature Pyramid Networks for Object Detection
+
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Feature%20Pyramid%20Networks%20for%20Object%20Detection)
+- [Original Paper](https://arxiv.org/pdf/1612.03144.pdf)
+
 #### Panoptic Feature Pyramid Networks
 
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection/Panoptic%20Feature%20Pyramid%20Networks)
