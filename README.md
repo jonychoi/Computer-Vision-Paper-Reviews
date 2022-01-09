@@ -12,6 +12,24 @@ Currently working on. Only * has contents.
 
 ## Configuration
 
+The goal of the repository is providing an end to end study scripts of most read and important papers.
+
+The prefered readers are not limited for researchers, but also for students and engieeners from rookies to the professions in computer vision fields .
+
+To provide the perfect and rich understanding, each paper contains following three main contents.
+
+- **Key Summary**
+
+Providing key summaries and terminologies of the paper so that even rookies can study as perfectly and easily as possible.
+
+- **Code Practice**
+
+Providing an end to end study script of codes for the paper so that even rookies can study as easily and perfectly as possible.
+
+- **Jupyter Notebook edited Original Paper**
+
+Providing the Original Paper converted into Jupyter notbook for easy and fast modification and understanding.
+
 ***Category/Paper/***
 
 #### **Paper_Review_Practice.ipynb** includes
