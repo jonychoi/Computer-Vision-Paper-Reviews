@@ -6,8 +6,6 @@
 
 The repository provides 100+ Papers across Computer Vision fields converted as **Jupyter Notebook**, with the **Key Summary** and **End to End Code Practice**.
 
-Currently working on. Only * has contents.
-
 ---
 
 ## Configuration
@@ -18,19 +16,21 @@ The prefered readers are not limited for researchers, but also for students and 
 
 To provide the perfect and rich understanding, each paper contains following three main contents.
 
-- **Key Summary**
+### **Key Summary**
 
 Providing key summaries and terminologies of the paper so that even rookies can study as perfectly and easily as possible.
 
-- **Code Practice**
+### **Code Practice**
 
 Providing an end to end study script of codes for the paper so that even rookies can study as easily and perfectly as possible.
 
-- **Jupyter Notebook edited Original Paper**
+### **Jupyter Notebook edited Original Paper**
 
 Providing the Original Paper converted into Jupyter notbook for easy and fast modification and understanding.
 
-***Category/Paper/***
+---
+
+### **Category/Paper/**
 
 #### **Paper_Review_Practice.ipynb** includes
 - **Key Summary** according to the flow of 
@@ -66,6 +66,8 @@ Providing the Original Paper converted into Jupyter notbook for easy and fast mo
 ---
 
 ## Completed / Working Papers
+
+Currently working on. Only * has contents.
 
 - [YOLOv4: Optimal Speed and Accuracy of Object Detection](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#yolov4-optimal-speed-and-accuracy-of-object-detection) [2022-1-8]
 - [Convolutional neural network architecture for geometric matching](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#convolutional-neural-network-architecture-for-geometric-matching) [2022-1-8]
