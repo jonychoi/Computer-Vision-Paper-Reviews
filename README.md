@@ -168,8 +168,9 @@ Currently working on. Only * has contents.
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection/YOLOv4%20-%20Optimal%20Speed%20and%20Accuracy%20of%20Object%20Detection)
 - [Original Paper](https://arxiv.org/pdf/2004.10934v1.pdf)
 
+---
 
-## Segementation
+## Segmentation
 
 #### PointRend: Image Segmentation as Rendering
 
