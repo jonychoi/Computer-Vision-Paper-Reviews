@@ -104,7 +104,7 @@ Currently working on. Only * has contents.
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Geometric%20Style%20Transfer)
 - [Original Paper](https://arxiv.org/pdf/2007.05471.pdf)
 
-### Universal Style Transfer via Feature Transforms
+#### Universal Style Transfer via Feature Transforms
 
 - [Paper & Code Review]()
 - [Original Paper](https://arxiv.org/pdf/1705.08086.pdf)    
