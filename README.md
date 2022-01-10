@@ -106,8 +106,8 @@ Currently working on. Only * has contents.
 
 #### Universal Style Transfer via Feature Transforms
 
-- [Paper & Code Review]()
-- [Original Paper](https://arxiv.org/pdf/1705.08086.pdf)    
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Universal%20Style%20Transfer%20via%20Feature%20Transforms)
+- [Original Paper](https://arxiv.org/pdf/1705.08086.pdf)
 
 #### Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
 
