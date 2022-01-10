@@ -75,7 +75,7 @@ Currently working on. Only * has contents.
 - [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Perceptual%20Losses%20for%20Real-Time%20Style%20Transfer%20and%20Super-Resolution) [2022-1-8]
 - [Geometric Style Transfer](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Geometric%20Style%20Transfer)
 - [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Transformer/Swin%20Transformer-%20Hierarchical%20Vision%20Transformer%20using%20Shifted%20Windows)
-- [Panoptic Feature Pyramid Networks]https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection/Panoptic%20Feature%20Pyramid%20Networks) [2022-1-8]
+- [Panoptic Feature Pyramid Networks](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection/Panoptic%20Feature%20Pyramid%20Networks) [2022-1-8]
 - [Mask R-CNN](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection/Mask%20R-CNN) [2022-1-8]
 - [Cost Aggregation Is All You Need for Few-Shot Segmentation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Segmentation/Cost%20Aggregation%20Is%20All%20You%20Need%20for%20Few-Shot%20Segmentation) [2022-1-8]
 - [PointRend: Image Segmentation as Rendering](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Segmentation/PointRend%20-%20Image%20Segmentation%20as%20Rendering) [2022-1-8]
