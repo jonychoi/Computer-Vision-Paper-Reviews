@@ -173,11 +173,6 @@ Currently working on. Only * has contents.
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection/Feature%20Pyramid%20Networks%20for%20Object%20Detection)
 - [Original Paper](https://arxiv.org/pdf/1612.03144.pdf)
 
-#### Panoptic Feature Pyramid Networks
-
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection/Panoptic%20Feature%20Pyramid%20Networks)
-- [Original Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kirillov_Panoptic_Feature_Pyramid_Networks_CVPR_2019_paper.pdf)
-
 #### Selective Search for Object Recognition
 
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection/Selective%20Search%20for%20Object%20Recognition)
@@ -212,6 +207,11 @@ Currently working on. Only * has contents.
 ---
 
 ## Segmentation
+
+#### Panoptic Feature Pyramid Networks
+
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Segmentation/Panoptic%20Feature%20Pyramid%20Networks)
+- [Original Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kirillov_Panoptic_Feature_Pyramid_Networks_CVPR_2019_paper.pdf)
 
 #### Mask R-CNN
 
