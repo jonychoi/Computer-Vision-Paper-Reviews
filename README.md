@@ -8,7 +8,7 @@ The repository provides 100+ Papers across Computer Vision fields converted as *
 
 ---
 
-## Configuration
+## Contents
 
 The goal of the repository is providing an end to end study scripts of most read and important papers.
 
@@ -30,7 +30,7 @@ Providing the Original Paper converted into Jupyter notbook for easy and fast mo
 
 ---
 
-### **Category/Paper/**
+#### **Category/Paper/**
 
 #### **Paper_Review_Practice.ipynb** includes
 - **Key Summary** according to the flow of 
