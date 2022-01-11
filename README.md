@@ -64,20 +64,11 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 ---
 
-## Completed / Working Papers
+## Working Papers
 
-Currently working on. Only * has contents.
-
-- [YOLOv4: Optimal Speed and Accuracy of Object Detection](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection/YOLOv4%20-%20Optimal%20Speed%20and%20Accuracy%20of%20Object%20Detection) [2022-1-8]
-- [Convolutional neural network architecture for geometric matching](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Convolutional%20neural%20network%20architecture%20for%20geometric%20matching) [2022-1-8]
-- [A Neural Algorithm of Artistic Style](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/A%20Neural%20Algorithm%20of%20Artistic%20Style) [2022-1-8]
-- [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Perceptual%20Losses%20for%20Real-Time%20Style%20Transfer%20and%20Super-Resolution) [2022-1-8]
-- [Geometric Style Transfer](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Geometric%20Style%20Transfer)
-- [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Transformer/Swin%20Transformer-%20Hierarchical%20Vision%20Transformer%20using%20Shifted%20Windows)
-- [Panoptic Feature Pyramid Networks](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection/Panoptic%20Feature%20Pyramid%20Networks) [2022-1-8]
-- [Mask R-CNN](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection/Mask%20R-CNN) [2022-1-8]
-- [Cost Aggregation Is All You Need for Few-Shot Segmentation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Segmentation/Cost%20Aggregation%20Is%20All%20You%20Need%20for%20Few-Shot%20Segmentation) [2022-1-8]
-- [PointRend: Image Segmentation as Rendering](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Segmentation/PointRend%20-%20Image%20Segmentation%20as%20Rendering) [2022-1-8]
+- [YOLOv4: Optimal Speed and Accuracy of Object Detection](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection/YOLOv4%20-%20Optimal%20Speed%20and%20Accuracy%20of%20Object%20Detection)
+- [PointRend: Image Segmentation as Rendering](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Segmentation/PointRend%20-%20Image%20Segmentation%20as%20Rendering)
+- [Convolutional neural network architecture for geometric matching](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Convolutional%20neural%20network%20architecture%20for%20geometric%20matching)
 
 ---
 
@@ -117,7 +108,7 @@ Currently working on. Only * has contents.
 
 ## Image to Image Translation
 
-#### Image-to-Image Translation with Conditional Adversarial Networks (CVPR 2017)**
+#### Image-to-Image Translation with Conditional Adversarial Networks (CVPR 2017)
 
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Image-to-Image%20Translation%20with%20Conditional%20Adversarial%20Networks)
 - [Original Paper](https://arxiv.org/abs/1611.07004)
@@ -147,7 +138,7 @@ Currently working on. Only * has contents.
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Transformer/MLP-Mixer%20-%20An%20all-MLP%20Architecture%20for%20Vision)
 - [Original Paper](https://arxiv.org/pdf/2105.01601.pdf)
 
-#### Swin Transformer: Hierarchical Vision Transformer using Shifted Windows**
+#### Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
 
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Transformer/Swin%20Transformer-%20Hierarchical%20Vision%20Transformer%20using%20Shifted%20Windows)
 - [Original Paper](https://arxiv.org/pdf/2103.14030.pdf)
