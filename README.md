@@ -16,31 +16,31 @@ The prefered readers are not limited for researchers, but also for students and 
 
 To provide the perfect and rich understanding, each paper contains following three main contents.
 
-### - **Key Summary**
+### **Key Summary**
 
-Providing key summaries and terminologies of the paper so that even rookies can study as perfectly and easily as possible.
+> Providing key summaries and terminologies of the paper so that even rookies can study as perfectly and easily as possible.
 
-### - **Code Practice**
+### **Code Practice**
 
-Providing an end to end study script of codes for the paper so that even rookies can study as easily and perfectly as possible.
+> Providing an end to end study script of codes for the paper so that even rookies can study as easily and perfectly as possible.
 
-### - **Jupyter Notebook edited Original Paper**
+### **Jupyter Notebook edited Original Paper**
 
-Providing the Original Paper converted into Jupyter notbook for easy and fast modification and understanding.
+> Providing the Original Paper converted into Jupyter notbook for easy and fast modification and understanding.
 
 #### **Category/Paper/**
 
-#### Paper_Review_Practice.ipynb includes
+> #### Paper_Review_Practice.ipynb includes
 - **Key Summary** according to the flow of 
 - **Original Paper (Jupyter Notebook Edited)** with the 
 - **End to End Code Practice**
 
 
-#### Paper.ipynb includes
+> #### Paper.ipynb includes
 - Original Paper (Jupyter Notebook Edited)
 
 
-#### Practice.ipynb includes
+> #### Practice.ipynb includes
 - End to End Code Practice
 
 
