@@ -28,8 +28,6 @@ Providing an end to end study script of codes for the paper so that even rookies
 
 Providing the Original Paper converted into Jupyter notbook for easy and fast modification and understanding.
 
----
-
 #### **Category/Paper/**
 
 #### Paper_Review_Practice.ipynb includes
