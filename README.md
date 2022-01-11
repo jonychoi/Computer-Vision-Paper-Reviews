@@ -30,7 +30,7 @@ To provide the perfect and rich understanding, each paper contains following thr
 #### **Category/Paper/**
 
 > #### Paper_Review_Practice.ipynb includes
-- **Key Summary** according to the flow of 
+> - **Key Summary** according to the flow of 
 - **Original Paper (Jupyter Notebook Edited)** with the 
 - **End to End Code Practice**
 
