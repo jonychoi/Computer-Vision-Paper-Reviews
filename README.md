@@ -16,15 +16,15 @@ The prefered readers are not limited for researchers, but also for students and 
 
 To provide the perfect and rich understanding, each paper contains following three main contents.
 
-### **Key Summary**
+### - **Key Summary**
 
 Providing key summaries and terminologies of the paper so that even rookies can study as perfectly and easily as possible.
 
-### **Code Practice**
+### - **Code Practice**
 
 Providing an end to end study script of codes for the paper so that even rookies can study as easily and perfectly as possible.
 
-### **Jupyter Notebook edited Original Paper**
+### - **Jupyter Notebook edited Original Paper**
 
 Providing the Original Paper converted into Jupyter notbook for easy and fast modification and understanding.
 
