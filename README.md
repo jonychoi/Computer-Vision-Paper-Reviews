@@ -39,12 +39,12 @@ To provide the perfect and rich understanding, each paper contains following thr
 > - Original Paper (Jupyter Notebook Edited)
 
 
-> #### ***Practice.ipynb*** includes
-> - End to End Code Practice
-
-
 > #### ***Review.ipynb*** includes
 > - Key Summary
+
+
+> #### ***Practice.ipynb*** includes
+> - End to End Code Practice
 
 ---
 
