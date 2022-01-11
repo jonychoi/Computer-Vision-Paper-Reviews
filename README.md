@@ -32,21 +32,21 @@ To provide the perfect and rich understanding, each paper contains following thr
 #### ***Category/Paper/***
 
 > #### ***Paper_Review_Practice.ipynb*** includes
-> - **Key Summary** according to the flow of 
-> - **Original Paper (Jupyter Notebook Edited)** with the 
-> - **End to End Code Practice**
+> - ***Key Summary according to the flow of ***
+> - ***Original Paper (Jupyter Notebook Edited) with the ***
+> - ***End to End Code Practice***
 
 
 > #### ***Paper.ipynb*** includes
-> - Original Paper (Jupyter Notebook Edited)
+> - *Original Paper (Jupyter Notebook Edited)*
 
 
 > #### ***Review.ipynb*** includes
-> - Key Summary
+> - *Key Summary*
 
 
 > #### ***Practice.ipynb*** includes
-> - End to End Code Practice
+> - *End to End Code Practice*
 
 ---
 
