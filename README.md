@@ -31,10 +31,10 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 #### ***Category/Paper/***
 
-> #### ***Paper_Review_Practice.ipynb*** includes
-> - ***Key Summary according to the flow of ***
-> - ***Original Paper (Jupyter Notebook Edited) with the ***
-> - ***End to End Code Practice***
+> #### *Paper_Review_Practice.ipynb includes*
+> - *Key Summary according to the flow of *
+> - *Original Paper (Jupyter Notebook Edited) with the *
+> - *End to End Code Practice*
 
 
 > #### ***Paper.ipynb*** includes
@@ -74,12 +74,12 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 ## Implicit Neural Representation
 
-#### Convolutional neural network architecture for geometric matching
+#### Convolutional neural network architecture for geometric matching []
 
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Convolutional%20neural%20network%20architecture%20for%20geometric%20matching)
 - [Original Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Rocco_Convolutional_Neural_Network_CVPR_2017_paper.pdf)
 
-#### A Neural Algorithm of Artistic Style
+#### A Neural Algorithm of Artistic Style []
 
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/A%20Neural%20Algorithm%20of%20Artistic%20Style)
 - [Original Paper](https://arxiv.org/pdf/1508.06576.pdf)
