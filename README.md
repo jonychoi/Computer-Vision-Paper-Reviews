@@ -74,7 +74,7 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 ## Implicit Neural Representation
 
-#### Convolutional neural network architecture for geometric matching [ ]
+#### Convolutional neural network architecture for geometric matching
 
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Convolutional%20neural%20network%20architecture%20for%20geometric%20matching)
 - [Original Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Rocco_Convolutional_Neural_Network_CVPR_2017_paper.pdf)
