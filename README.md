@@ -27,6 +27,8 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 > Providing the Original Paper converted into Jupyter notbook for easy and fast modification and understanding.
 
+---
+
 #### ***Category/Paper/***
 
 > #### ***Paper_Review_Practice.ipynb*** includes
