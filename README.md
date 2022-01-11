@@ -198,11 +198,6 @@ Currently working on. Only * has contents.
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection/Faster%20R-CNN)
 - [Original Paper](https://arxiv.org/pdf/1506.01497.pdf)
 
-#### Mask R-CNN
-
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection/Mask%20R-CNN)
-- [Original Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)
-
 #### Sparse R-CNN
 
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection/Sparse%20R-CNN)
@@ -217,6 +212,11 @@ Currently working on. Only * has contents.
 ---
 
 ## Segmentation
+
+#### Mask R-CNN
+
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Segmentation/Mask%20R-CNN)
+- [Original Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)
 
 #### PointRend: Image Segmentation as Rendering
 
