@@ -151,11 +151,6 @@ To provide the perfect and rich understanding, each paper contains following thr
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Transformer/An%20Image%20is%20Worth%2016x16%20Words%20-%20Transformers%20for%20Image%20Recognition%20at%20Scale)
 - [Original Paper](https://arxiv.org/pdf/2010.11929.pdf)
 
-#### MLP-Mixer: An all-MLP Architecture for Vision
-
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Transformer/MLP-Mixer%20-%20An%20all-MLP%20Architecture%20for%20Vision)
-- [Original Paper](https://arxiv.org/pdf/2105.01601.pdf)
-
 #### Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
 
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Transformer/Swin%20Transformer-%20Hierarchical%20Vision%20Transformer%20using%20Shifted%20Windows)
@@ -171,6 +166,15 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Vision_Transformers_for_Dense_Prediction)
 - [Original Paper](https://arxiv.org/pdf/2103.13413.pdf)
+
+---
+
+## New Backbone
+
+#### MLP-Mixer: An all-MLP Architecture for Vision
+
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Transformer/MLP-Mixer%20-%20An%20all-MLP%20Architecture%20for%20Vision)
+- [Original Paper](https://arxiv.org/pdf/2105.01601.pdf)
 
 ---
 
