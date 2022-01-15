@@ -67,9 +67,15 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 ## Working Papers
 
+- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Batch%20Normalization%20-%20Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift)
+- [Instance Normalization: The Missing Ingredient for Fast Stylization](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Instance%20Normalization%20-%20The%20Missing%20Ingredient%20for%20Fast%20Stylization)
+- [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization)
+- [Semantic Image Synthesis with Spatially-Adaptive Normalization](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Semantic%20Image%20Synthesis%20with%20Spatially-Adaptive%20Normalization)
+- [Universal Style Transfer via Feature Transforms](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Universal%20Style%20Transfer%20via%20Feature%20Transforms)
+- [A Neural Algorithm of Artistic Style](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/A%20Neural%20Algorithm%20of%20Artistic%20Style)
+- [Convolutional neural network architecture for geometric matching](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Convolutional%20neural%20network%20architecture%20for%20geometric%20matching)
 - [YOLOv4: Optimal Speed and Accuracy of Object Detection](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection/YOLOv4%20-%20Optimal%20Speed%20and%20Accuracy%20of%20Object%20Detection)
 - [PointRend: Image Segmentation as Rendering](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Segmentation/PointRend%20-%20Image%20Segmentation%20as%20Rendering)
-- [Convolutional neural network architecture for geometric matching](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Convolutional%20neural%20network%20architecture%20for%20geometric%20matching)
 
 ---
 
