@@ -74,15 +74,46 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 ## Implicit Neural Representation
 
-#### Convolutional neural network architecture for geometric matching
+#### Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Convolutional%20neural%20network%20architecture%20for%20geometric%20matching)
-- [Original Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Rocco_Convolutional_Neural_Network_CVPR_2017_paper.pdf)
+- [Paper & Code Review]()
+
+- [Original Paper](https://arxiv.org/pdf/1502.03167.pdf)
+
+#### Instance Normalization: The Missing Ingredient for Fast Stylization
+
+- [Paper & Code Review]()
+
+- [Original Paper](https://arxiv.org/pdf/1607.08022.pdf)
+
+
+#### Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
+
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization)
+- [Original Paper](https://arxiv.org/pdf/1703.06868.pdf)
+
+#### Semantic Image Synthesis with Spatially-Adaptive Normalization
+
+- [Paper & Code Review]()
+
+- [Original Paper](https://arxiv.org/pdf/1903.07291.pdf)
+
+
+#### Universal Style Transfer via Feature Transforms
+
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Universal%20Style%20Transfer%20via%20Feature%20Transforms)
+- [Original Paper](https://arxiv.org/pdf/1705.08086.pdf)
 
 #### A Neural Algorithm of Artistic Style
 
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/A%20Neural%20Algorithm%20of%20Artistic%20Style)
 - [Original Paper](https://arxiv.org/pdf/1508.06576.pdf)
+
+
+#### Convolutional neural network architecture for geometric matching
+
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Convolutional%20neural%20network%20architecture%20for%20geometric%20matching)
+- [Original Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Rocco_Convolutional_Neural_Network_CVPR_2017_paper.pdf)
 
 #### Perceptual Losses for Real-Time Style Transfer and Super-Resolution
 
@@ -93,16 +124,6 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Geometric%20Style%20Transfer)
 - [Original Paper](https://arxiv.org/pdf/2007.05471.pdf)
-
-#### Universal Style Transfer via Feature Transforms
-
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Universal%20Style%20Transfer%20via%20Feature%20Transforms)
-- [Original Paper](https://arxiv.org/pdf/1705.08086.pdf)
-
-#### Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
-
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization)
-- [Original Paper](https://arxiv.org/pdf/1703.06868.pdf)
 
 ---
 
