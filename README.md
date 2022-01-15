@@ -76,13 +76,13 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 #### Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 
-- [Paper & Code Review]()
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Batch%20Normalization%20-%20Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift)
 
 - [Original Paper](https://arxiv.org/pdf/1502.03167.pdf)
 
 #### Instance Normalization: The Missing Ingredient for Fast Stylization
 
-- [Paper & Code Review]()
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Instance%20Normalization%20-%20The%20Missing%20Ingredient%20for%20Fast%20Stylization)
 
 - [Original Paper](https://arxiv.org/pdf/1607.08022.pdf)
 
@@ -94,7 +94,7 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 #### Semantic Image Synthesis with Spatially-Adaptive Normalization
 
-- [Paper & Code Review]()
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Semantic%20Image%20Synthesis%20with%20Spatially-Adaptive%20Normalization)
 
 - [Original Paper](https://arxiv.org/pdf/1903.07291.pdf)
 
