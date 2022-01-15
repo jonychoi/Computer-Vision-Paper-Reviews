@@ -173,7 +173,7 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 #### MLP-Mixer: An all-MLP Architecture for Vision
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Transformer/MLP-Mixer%20-%20An%20all-MLP%20Architecture%20for%20Vision)
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/New%20Backbone/MLP-Mixer%20-%20An%20all-MLP%20Architecture%20for%20Vision)
 - [Original Paper](https://arxiv.org/pdf/2105.01601.pdf)
 
 ---
