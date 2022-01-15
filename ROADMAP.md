@@ -1,5 +1,36 @@
 ## Implicit Neural Representation
 
+
+#### Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
+
+- [X] Paper
+- [ ] Review
+- [ ] Practice
+
+#### Instance Normalization: The Missing Ingredient for Fast Stylization
+
+- [X] Paper
+- [ ] Review
+- [ ] Practice
+
+#### Semantic Image Synthesis with Spatially-Adaptive Normalization
+
+- [X] Paper
+- [ ] Review
+- [ ] Practice
+
+#### Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
+
+- [X] Paper
+- [ ] Review
+- [ ] Practice
+
+#### Universal Style Transfer via Feature Transforms
+
+- [X] Paper
+- [ ] Review
+- [ ] Practice
+
 #### Convolutional neural network architecture for geometric matching
 
 - [X] Paper
@@ -17,19 +48,6 @@
 - [ ] Paper
 - [ ] Review
 - [ ] Practice
-
-#### Universal Style Transfer via Feature Transforms
-
-- [ ] Paper
-- [ ] Review
-- [ ] Practice
-
-#### Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
-
-- [ ] Paper
-- [ ] Review
-- [ ] Practice
-
 
 #### Geometric Style Transfer
 
