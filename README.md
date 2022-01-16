@@ -60,7 +60,6 @@ To provide the perfect and rich understanding, each paper contains following thr
 - [Image Generation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#image-generation)
 - [Convolutional Neural Networks](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#convolutional-neural-network)
 - [Representation Learning](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#representation-learning)
-- [New Backbone](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/New%20Backbone/MLP-Mixer%20-%20An%20all-MLP%20Architecture%20for%20Vision)
 
 
 ---
@@ -176,14 +175,14 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 ---
 
-## New Backbone
+<!-- ## New Backbone
 
 #### MLP-Mixer: An all-MLP Architecture for Vision
 
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/New%20Backbone/MLP-Mixer%20-%20An%20all-MLP%20Architecture%20for%20Vision)
 - [Original Paper](https://arxiv.org/pdf/2105.01601.pdf)
 
----
+--- -->
 
 ## Object Detection
 
