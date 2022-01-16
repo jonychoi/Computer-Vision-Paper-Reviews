@@ -29,7 +29,7 @@
 
 #### Universal Style Transfer via Feature Transforms
 
-- [X] Paper
+- [ ] Paper
 - [ ] Review
 - [ ] Practice
 
