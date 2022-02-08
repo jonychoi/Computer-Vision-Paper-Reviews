@@ -300,27 +300,27 @@ If you want to see Road Map and the process, please visit <a href="https://githu
 
 #### Generative Adversarial Networks
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20Generation/Generative%20Adversarial%20Networks)
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Generative$20Model/Generative%20Adversarial%20Networks)
 - [Original Paper](https://papers.nips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
 
 #### A Style-Based Generator Architecture for Generative Adversarial Networks
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20Generation/A%20Style-Based%20Generator%20Architecture%20for%20Generative%20Adversarial%20Networks)
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Generative$20Model/A%20Style-Based%20Generator%20Architecture%20for%20Generative%20Adversarial%20Networks)
 - [Original Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf)
 
 #### GAN Dissection: Visualizing and Understanding Generative Adversarial Networks
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20Generation/GAN%20Dissection%20-%20Visualizing%20and%20Understanding%20Generative%20Adversarial%20Networks)
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Generative$20Model/GAN%20Dissection%20-%20Visualizing%20and%20Understanding%20Generative%20Adversarial%20Networks)
 - [Original Paper](https://arxiv.org/pdf/1811.10597.pdf)
 
 #### Semantic Image Synthesis with Spatially-Adaptive Normalization
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20Generation/Semantic%20Image%20Synthesis%20with%20Spatially-Adaptive%20Normalization)
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Generative$20Model/Semantic%20Image%20Synthesis%20with%20Spatially-Adaptive%20Normalization)
 - [Original Paper](https://arxiv.org/pdf/1903.07291.pdf)
 
 #### Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20Generation/Unpaired%20Image-to-Image%20Translation%20using%20Cycle-Consistent%20Adversarial%20Networks)
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Generative$20Model/Unpaired%20Image-to-Image%20Translation%20using%20Cycle-Consistent%20Adversarial%20Networks)
 - [Original Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf)
 
 ---
