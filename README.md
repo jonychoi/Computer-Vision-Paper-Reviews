@@ -54,8 +54,8 @@ To provide the perfect and rich understanding, each paper contains following thr
 ## Index
 
 - ### [Implicit Neural Representation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#implicit-neural-representation)
-> - #### [Style Transfer](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#implicit-neural-representation)
-> - #### [Image to Image Translation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#image-to-image-translation)
+> - #### [Style Transfer](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#style-transfer-1)
+> - #### [Image to Image Translation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#image-to-image-translation-1)
 - ### [Object Detection](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#object-detection)
 - ### [Segmentation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#segmentation)
 - ### [Transformer](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#transformer)
@@ -88,63 +88,63 @@ If you want to see Road Map and the process, please visit <a href="https://githu
 
 #### Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Batch%20Normalization%20-%20Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift)
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Style%20Transfer/Batch%20Normalization%20-%20Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift)
 - [Original Paper](https://arxiv.org/pdf/1502.03167.pdf)
 
 #### Instance Normalization: The Missing Ingredient for Fast Stylization
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Instance%20Normalization%20-%20The%20Missing%20Ingredient%20for%20Fast%20Stylization)
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Style%20Transfer/Instance%20Normalization%20-%20The%20Missing%20Ingredient%20for%20Fast%20Stylization)
 - [Original Paper](https://arxiv.org/pdf/1607.08022.pdf)
 
 
 #### Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization)
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Style%20Transfer/Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization)
 - [Original Paper](https://arxiv.org/pdf/1703.06868.pdf)
 
 #### Semantic Image Synthesis with Spatially-Adaptive Normalization
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Semantic%20Image%20Synthesis%20with%20Spatially-Adaptive%20Normalization)
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Style%20Transfer/Semantic%20Image%20Synthesis%20with%20Spatially-Adaptive%20Normalization)
 - [Original Paper](https://arxiv.org/pdf/1903.07291.pdf)
 
 
 #### Universal Style Transfer via Feature Transforms
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Universal%20Style%20Transfer%20via%20Feature%20Transforms)
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Style%20Transfer/Universal%20Style%20Transfer%20via%20Feature%20Transforms)
 - [Original Paper](https://arxiv.org/pdf/1705.08086.pdf)
 
 #### A Neural Algorithm of Artistic Style
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/A%20Neural%20Algorithm%20of%20Artistic%20Style)
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Style%20Transfer/A%20Neural%20Algorithm%20of%20Artistic%20Style)
 - [Original Paper](https://arxiv.org/pdf/1508.06576.pdf)
 
 
 #### Convolutional neural network architecture for geometric matching
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Convolutional%20neural%20network%20architecture%20for%20geometric%20matching)
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Style%20Transfer/Convolutional%20neural%20network%20architecture%20for%20geometric%20matching)
 - [Original Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Rocco_Convolutional_Neural_Network_CVPR_2017_paper.pdf)
 
 #### Perceptual Losses for Real-Time Style Transfer and Super-Resolution
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Perceptual%20Losses%20for%20Real-Time%20Style%20Transfer%20and%20Super-Resolution)
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Style%20Transfer/Perceptual%20Losses%20for%20Real-Time%20Style%20Transfer%20and%20Super-Resolution)
 - [Original Paper](https://arxiv.org/pdf/1603.08155.pdf)
 
 #### Geometric Style Transfer
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Geometric%20Style%20Transfer)
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Style%20Transfer/Geometric%20Style%20Transfer)
 - [Original Paper](https://arxiv.org/pdf/2007.05471.pdf)
 
 ### Image to Image Translation
 
 #### Image-to-Image Translation with Conditional Adversarial Networks (CVPR 2017)
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Image-to-Image%20Translation%20with%20Conditional%20Adversarial%20Networks)
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Image%20to%20Image%20Translation/Image-to-Image%20Translation%20with%20Conditional%20Adversarial%20Networks)
 - [Original Paper](https://arxiv.org/abs/1611.07004)
 
 
 #### Bi-level Feature Alignment for Versatile Image Translation and Manipulation
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Bi-level%20Feature%20Alignment%20for%20Versatile%20Image%20Translation%20and%20Manipulation)
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Image%20to%20Image%20Translation/Bi-level%20Feature%20Alignment%20for%20Versatile%20Image%20Translation%20and%20Manipulation)
 - [Original Paper](https://arxiv.org/pdf/2107.03021.pdf)
 
 ---
