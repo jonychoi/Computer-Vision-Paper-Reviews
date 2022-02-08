@@ -296,7 +296,7 @@ If you want to see Road Map and the process, please visit <a href="https://githu
 
 ---
 
-## Image Generation
+## Generative Model
 
 #### Generative Adversarial Networks
 
