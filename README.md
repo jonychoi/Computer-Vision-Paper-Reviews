@@ -53,15 +53,15 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 ## Index
 
-#### [Implicit Neural Representation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#implicit-neural-representation)
-> ##### [Style Transfer](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#style-transfer-1)
-> ##### [Image to Image Translation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#image-to-image-translation-1)
-#### [Object Detection](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#object-detection)
-#### [Segmentation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#segmentation)
-#### [Transformer](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#transformer)
-#### [Image Generation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#image-generation)
-#### [Convolutional Neural Networks](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#convolutional-neural-network)
-#### [Representation Learning](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#representation-learning)
+#### - [Implicit Neural Representation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#implicit-neural-representation)
+> #### - [Style Transfer](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#style-transfer-1)
+> #### - [Image to Image Translation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#image-to-image-translation-1)
+#### - [Object Detection](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#object-detection)
+#### - [Segmentation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#segmentation)
+#### - [Transformer](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#transformer)
+#### - [Image Generation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#image-generation)
+#### - [Convolutional Neural Networks](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#convolutional-neural-network)
+#### - [Representation Learning](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#representation-learning)
 
 
 ---
