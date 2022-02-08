@@ -53,14 +53,15 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 ## Index
 
-- [Implicit Neural Representation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#implicit-neural-representation)
-- [Image to Image Translation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#image-to-image-translation)
-- [Object Detection](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#object-detection)
-- [Segmentation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#segmentation)
-- [Transformer](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#transformer)
-- [Image Generation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#image-generation)
-- [Convolutional Neural Networks](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#convolutional-neural-network)
-- [Representation Learning](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#representation-learning)
+- ### [Implicit Neural Representation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#implicit-neural-representation)
+> - #### [Style Transfer](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#implicit-neural-representation)
+> - #### [Image to Image Translation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#image-to-image-translation)
+- ### [Object Detection](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#object-detection)
+- ### [Segmentation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#segmentation)
+- ### [Transformer](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#transformer)
+- ### [Image Generation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#image-generation)
+- ### [Convolutional Neural Networks](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#convolutional-neural-network)
+- ### [Representation Learning](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#representation-learning)
 
 
 ---
@@ -82,6 +83,8 @@ If you want to see Road Map and the process, please visit <a href="https://githu
 ---
 
 ## Implicit Neural Representation
+
+### Style Transfer
 
 #### Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 
@@ -131,9 +134,7 @@ If you want to see Road Map and the process, please visit <a href="https://githu
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Geometric%20Style%20Transfer)
 - [Original Paper](https://arxiv.org/pdf/2007.05471.pdf)
 
----
-
-## Image to Image Translation
+### Image to Image Translation
 
 #### Image-to-Image Translation with Conditional Adversarial Networks (CVPR 2017)
 
