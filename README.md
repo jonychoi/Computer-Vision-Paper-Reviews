@@ -62,7 +62,7 @@ To provide the perfect and rich understanding, each paper contains following thr
 ####  [5. Generative Model](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#image-generation)
 ####  [6. Convolutional Neural Networks](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#convolutional-neural-network)
 ####  [7. Representation Learning](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#representation-learning)
-####  [8. Vision & Language](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#representation-learning)
+####  [8. Vision & Language](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#vision-language)
 ####  [9. Depth Estimation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#depth-estimation)
 ####  [10. Correspondence](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#correspondence)
 ####  [11. Implicit Field](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#implicit-field)
