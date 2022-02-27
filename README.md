@@ -82,7 +82,20 @@ If you want to see Road Map and the process, please visit <a href="https://githu
 
 ---
 
-## Implicit Neural Representation
+## Image to Image Translation
+
+### Image to Image Translation
+
+#### Image-to-Image Translation with Conditional Adversarial Networks (CVPR 2017)
+
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Image%20to%20Image%20Translation/Image-to-Image%20Translation%20with%20Conditional%20Adversarial%20Networks)
+- [Original Paper](https://arxiv.org/abs/1611.07004)
+
+
+#### Bi-level Feature Alignment for Versatile Image Translation and Manipulation
+
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Image%20to%20Image%20Translation/Bi-level%20Feature%20Alignment%20for%20Versatile%20Image%20Translation%20and%20Manipulation)
+- [Original Paper](https://arxiv.org/pdf/2107.03021.pdf)
 
 ### Style Transfer
 
@@ -133,19 +146,6 @@ If you want to see Road Map and the process, please visit <a href="https://githu
 
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Style%20Transfer/Geometric%20Style%20Transfer)
 - [Original Paper](https://arxiv.org/pdf/2007.05471.pdf)
-
-### Image to Image Translation
-
-#### Image-to-Image Translation with Conditional Adversarial Networks (CVPR 2017)
-
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Image%20to%20Image%20Translation/Image-to-Image%20Translation%20with%20Conditional%20Adversarial%20Networks)
-- [Original Paper](https://arxiv.org/abs/1611.07004)
-
-
-#### Bi-level Feature Alignment for Versatile Image Translation and Manipulation
-
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Image%20to%20Image%20Translation/Bi-level%20Feature%20Alignment%20for%20Versatile%20Image%20Translation%20and%20Manipulation)
-- [Original Paper](https://arxiv.org/pdf/2107.03021.pdf)
 
 ---
 
