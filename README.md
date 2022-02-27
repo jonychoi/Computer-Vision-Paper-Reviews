@@ -22,11 +22,11 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 ### **Code Practice**
 
-> Providing an end to end study script of codes for the paper so that even rookies can study as easily and perfectly as possible.
+> Providing an end to end study script of codes for the paper.
 
 ### **Jupyter Notebook edited Original Paper**
 
-> Providing the Original Paper converted into Jupyter notbook for easy and fast modification and understanding.
+> Providing the Jupyter notbook converted Original Paper for easy and fast modification and understanding.
 
 ---
 
@@ -53,9 +53,9 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 ## Index
 
-####  [1. Implicit Neural Representation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#implicit-neural-representation)
-> #### [1- 1. Style Transfer](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#style-transfer-1)
-> #### [1- 2. Image to Image Translation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#image-to-image-translation-1)
+####  [1. Image to Image Translation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#implicit-neural-representation)
+> #### [1- 1. Image to Image Translation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#image-to-image-translation-1)
+> #### [1- 2. Style Transfer](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#style-transfer-1)
 ####  [2. Object Detection](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#object-detection)
 ####  [3. Segmentation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#segmentation)
 ####  [4. Transformer](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#transformer)
