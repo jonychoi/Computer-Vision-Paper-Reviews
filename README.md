@@ -92,7 +92,7 @@ Currently working.
 #### WeakAlign: End-to-end weakly-supervised semantic alignment (CVPR 2018)
 
 - [Paper & Code Review]()
-- [Original Paper](https://arxiv.org/pdf/2004.10566.pdf)
+- [Original Paper](https://arxiv.org/pdf/1712.06861.pdf)
 
 #### FCSS: Fully Convolutional Self-Similarity for Dense Semantic Correspondence (TPAMI 2019)
 
