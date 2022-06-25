@@ -2,147 +2,208 @@
 
 ### Computer Vision Paper Reviews with Key Summary along Papers & Codes.
 
+#### Jonathan Choi 2021
+
 The repository provides 100+ Papers across Computer Vision fields converted as **Jupyter Notebook**, with the **Key Summary** and **End to End Code Practice**.
 
-#### Jonathan Choi 2021
 ---
 
 ## Contents
 
 The goal of the repository is providing an end to end study scripts of most read and important papers.
 
-The prefered readers are not limited for researchers, but also for students and engieeners from rookies to the professions in computer vision fields .
+The prefered readers are not limited for researchers, but also for students and engieeners from beginner to the professions in computer vision fields .
 
 To provide the perfect and rich understanding, each paper contains following three main contents.
 
 ### **Key Summary**
 
-> Providing key summaries and terminologies of the paper so that even rookies can study as perfectly and easily as possible.
+> Providing key summaries and terminologies of the paper so that even beginner can study easily and perfectly.
 
 ### **Code Practice**
 
-> Providing an end to end study script of codes for the paper so that even rookies can study as easily and perfectly as possible.
+> Providing an end to end study script of codes for the paper.
 
 ### **Jupyter Notebook edited Original Paper**
 
-> Providing the Original Paper converted into Jupyter notbook for easy and fast modification and understanding.
+> Providing the Jupyter notbook converted Original Paper for easy and fast modification and understanding.
 
 ---
 
 #### ***Category/Paper/***
 
-> #### *Paper_Review_Practice.ipynb includes*
+#### *Paper_Review_Practice.ipynb includes*
 > *Key Summary according to the flow of*
 > *Original Paper (Jupyter Notebook Edited) with the*
 > *End to End Code Practice*
 
 
-> #### ***Paper.ipynb*** includes
+#### ***Paper.ipynb*** includes
 > *Original Paper (Jupyter Notebook Edited)*
 
 
-> #### ***Review.ipynb*** includes
+#### ***Review.ipynb*** includes
 > *Key Summary*
 
 
-> #### ***Practice.ipynb*** includes
+#### ***Practice.ipynb*** includes
 > *End to End Code Practice*
 
 ---
 
 ## Index
 
-- [Implicit Neural Representation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#implicit-neural-representation)
-- [Image to Image Translation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#image-to-image-translation)
-- [Object Detection](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#object-detection)
-- [Segmentation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#segmentation)
-- [Transformer](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#transformer)
-- [Image Generation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#image-generation)
-- [Convolutional Neural Networks](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#convolutional-neural-network)
-- [Representation Learning](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#representation-learning)
-- [New Backbone](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/New%20Backbone/MLP-Mixer%20-%20An%20all-MLP%20Architecture%20for%20Vision)
+####  [1. Correspondence](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#correspondence)
+####  [2. Image to Image Translation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#image-to-image-translation)
+> #### [2- 1. Image to Image Translation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#image-to-image-translation-1)
+> #### [2- 2. Style Transfer](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#style-transfer)
+####  [3. Object Detection](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#object-detection)
+####  [4. Segmentation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#segmentation)
+####  [5. Transformer](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#transformer)
+####  [6. Generative Model](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#image-generation)
+####  [7. Convolutional Neural Networks](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#convolutional-neural-network)
+####  [8. Representation Learning](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#representation-learning)
+####  [9. Vision & Language](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#vision-and-language)
+####  [10. Depth Estimation](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#depth-estimation)
+####  [11. Implicit Field](https://github.com/jonychoi/Computer-Vision-Paper-Reviews#implicit-field)
 
 
 ---
 
 ## Working Papers
 
-- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Batch%20Normalization%20-%20Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift)
-- [Instance Normalization: The Missing Ingredient for Fast Stylization](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Instance%20Normalization%20-%20The%20Missing%20Ingredient%20for%20Fast%20Stylization)
-- [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization)
-- [Semantic Image Synthesis with Spatially-Adaptive Normalization](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Semantic%20Image%20Synthesis%20with%20Spatially-Adaptive%20Normalization)
-- [Universal Style Transfer via Feature Transforms](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Universal%20Style%20Transfer%20via%20Feature%20Transforms)
-- [A Neural Algorithm of Artistic Style](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/A%20Neural%20Algorithm%20of%20Artistic%20Style)
-- [Convolutional neural network architecture for geometric matching](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Convolutional%20neural%20network%20architecture%20for%20geometric%20matching)
-- [YOLOv4: Optimal Speed and Accuracy of Object Detection](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection/YOLOv4%20-%20Optimal%20Speed%20and%20Accuracy%20of%20Object%20Detection)
-- [PointRend: Image Segmentation as Rendering](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Segmentation/PointRend%20-%20Image%20Segmentation%20as%20Rendering)
+Currently working.
+<!-- If you want to see Road Map and the process, please visit <a href="https://github.com/jonychoi/Computer-Vision-Paper-Reviews/blob/main/ROADMAP.md">here</a>. -->
 
 ---
 
-## Implicit Neural Representation
+## Correspondence
 
-#### Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
+#### Convolutional Neural Network Architecture for Geometric Matching (CVPR 2017)
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Batch%20Normalization%20-%20Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift)
-- [Original Paper](https://arxiv.org/pdf/1502.03167.pdf)
-
-#### Instance Normalization: The Missing Ingredient for Fast Stylization
-
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Instance%20Normalization%20-%20The%20Missing%20Ingredient%20for%20Fast%20Stylization)
-- [Original Paper](https://arxiv.org/pdf/1607.08022.pdf)
-
-
-#### Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
-
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization)
-- [Original Paper](https://arxiv.org/pdf/1703.06868.pdf)
-
-#### Semantic Image Synthesis with Spatially-Adaptive Normalization
-
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Semantic%20Image%20Synthesis%20with%20Spatially-Adaptive%20Normalization)
-- [Original Paper](https://arxiv.org/pdf/1903.07291.pdf)
-
-
-#### Universal Style Transfer via Feature Transforms
-
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Universal%20Style%20Transfer%20via%20Feature%20Transforms)
-- [Original Paper](https://arxiv.org/pdf/1705.08086.pdf)
-
-#### A Neural Algorithm of Artistic Style
-
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/A%20Neural%20Algorithm%20of%20Artistic%20Style)
-- [Original Paper](https://arxiv.org/pdf/1508.06576.pdf)
-
-
-#### Convolutional neural network architecture for geometric matching
-
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Convolutional%20neural%20network%20architecture%20for%20geometric%20matching)
+- [Paper & Code Review]()
 - [Original Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Rocco_Convolutional_Neural_Network_CVPR_2017_paper.pdf)
 
-#### Perceptual Losses for Real-Time Style Transfer and Super-Resolution
+#### Ncnet: Neighbourhood consensus networks for estimating image correspondences (NeurIPS 2018)
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Perceptual%20Losses%20for%20Real-Time%20Style%20Transfer%20and%20Super-Resolution)
-- [Original Paper](https://arxiv.org/pdf/1603.08155.pdf)
+- [Paper & Code Review]()
+- [Original Paper](https://arxiv.org/pdf/1810.10510.pdf)
 
-#### Geometric Style Transfer
+#### WeakAlign: End-to-end weakly-supervised semantic alignment (CVPR 2018)
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Implicit%20Neural%20Representation/Geometric%20Style%20Transfer)
-- [Original Paper](https://arxiv.org/pdf/2007.05471.pdf)
+- [Paper & Code Review]()
+- [Original Paper](https://arxiv.org/pdf/1712.06861.pdf)
 
+#### FCSS: Fully Convolutional Self-Similarity for Dense Semantic Correspondence (TPAMI 2019)
+
+- [Paper & Code Review]()
+- [Original Paper](https://arxiv.org/pdf/1702.00926.pdf)
+
+#### GLU-Net: Global-Local Universal Network for dense flow and correspondences (CVPR 2020)
+
+- [Paper & Code Review]()
+- [Original Paper](https://arxiv.org/pdf/1912.05524.pdf)
+
+#### Dual-Resolution Correspondence Networks (NeurIPS 2020)
+
+- [Paper & Code Review]()
+- [Original Paper](https://proceedings.neurips.cc/paper/2020/file/c91591a8d461c2869b9f535ded3e213e-Paper.pdf)
+
+#### ANC-Net:Correspondence Networks With Adaptive Neighbourhood Consensus (CVPR 2020)
+
+- [Paper & Code Review]()
+- [Original Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Correspondence_Networks_With_Adaptive_Neighbourhood_Consensus_CVPR_2020_paper.html)
+
+#### Efficient Neighbourhood Consensus Networks via Submanifold Sparse Convolutions (ECCV 2020)
+
+- [Paper & Code Review]()
+- [Original Paper](https://arxiv.org/pdf/2004.10566.pdf)
+
+#### CATs: Cost Aggregation Transformers for Visual Correspondence (NeurIPS 2021)
+
+- [Paper & Code Review]()
+- [Original Paper](https://arxiv.org/pdf/2106.02520.pdf)
+
+#### PatchMatch-Based Neighborhood Consensus for Semantic Correspondence (CVPR 2021)
+
+- [Paper & Code Review]()
+- [Original Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_PatchMatch-Based_Neighborhood_Consensus_for_Semantic_Correspondence_CVPR_2021_paper.pdf)
+
+#### MMNet:Multi-Scale Matching Networks for Semantic Correspondence (ICCV 2021)
+
+- [Paper & Code Review]()
+- [Original Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Multi-Scale_Matching_Networks_for_Semantic_Correspondence_ICCV_2021_paper.pdf)
+
+#### CATs++: Boosting Cost Aggregation with Convolutions and Transformers (Arxiv 2022)
+
+- [Paper & Code Review]()
+- [Original Paper](https://arxiv.org/pdf/2202.06817.pdf)
 ---
 
 ## Image to Image Translation
 
+### Image to Image Translation
+
 #### Image-to-Image Translation with Conditional Adversarial Networks (CVPR 2017)
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Image-to-Image%20Translation%20with%20Conditional%20Adversarial%20Networks)
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Image%20to%20Image%20Translation/Image-to-Image%20Translation%20with%20Conditional%20Adversarial%20Networks)
 - [Original Paper](https://arxiv.org/abs/1611.07004)
 
 
 #### Bi-level Feature Alignment for Versatile Image Translation and Manipulation
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Bi-level%20Feature%20Alignment%20for%20Versatile%20Image%20Translation%20and%20Manipulation)
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Image%20to%20Image%20Translation/Bi-level%20Feature%20Alignment%20for%20Versatile%20Image%20Translation%20and%20Manipulation)
 - [Original Paper](https://arxiv.org/pdf/2107.03021.pdf)
+
+### Style Transfer
+
+#### Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
+
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Style%20Transfer/Batch%20Normalization%20-%20Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift)
+- [Original Paper](https://arxiv.org/pdf/1502.03167.pdf)
+
+#### Instance Normalization: The Missing Ingredient for Fast Stylization
+
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Style%20Transfer/Instance%20Normalization%20-%20The%20Missing%20Ingredient%20for%20Fast%20Stylization)
+- [Original Paper](https://arxiv.org/pdf/1607.08022.pdf)
+
+
+#### Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
+
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Style%20Transfer/Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization)
+- [Original Paper](https://arxiv.org/pdf/1703.06868.pdf)
+
+#### Semantic Image Synthesis with Spatially-Adaptive Normalization
+
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Style%20Transfer/Semantic%20Image%20Synthesis%20with%20Spatially-Adaptive%20Normalization)
+- [Original Paper](https://arxiv.org/pdf/1903.07291.pdf)
+
+
+#### Universal Style Transfer via Feature Transforms
+
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Style%20Transfer/Universal%20Style%20Transfer%20via%20Feature%20Transforms)
+- [Original Paper](https://arxiv.org/pdf/1705.08086.pdf)
+
+#### A Neural Algorithm of Artistic Style
+
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Style%20Transfer/A%20Neural%20Algorithm%20of%20Artistic%20Style)
+- [Original Paper](https://arxiv.org/pdf/1508.06576.pdf)
+
+
+#### Convolutional neural network architecture for geometric matching
+
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Style%20Transfer/Convolutional%20neural%20network%20architecture%20for%20geometric%20matching)
+- [Original Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Rocco_Convolutional_Neural_Network_CVPR_2017_paper.pdf)
+
+#### Perceptual Losses for Real-Time Style Transfer and Super-Resolution
+
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Style%20Transfer/Perceptual%20Losses%20for%20Real-Time%20Style%20Transfer%20and%20Super-Resolution)
+- [Original Paper](https://arxiv.org/pdf/1603.08155.pdf)
+
+#### Geometric Style Transfer
+
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Style%20Transfer/Geometric%20Style%20Transfer)
+- [Original Paper](https://arxiv.org/pdf/2007.05471.pdf)
 
 ---
 
@@ -176,14 +237,14 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 ---
 
-## New Backbone
+<!-- ## New Backbone
 
 #### MLP-Mixer: An all-MLP Architecture for Vision
 
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/New%20Backbone/MLP-Mixer%20-%20An%20all-MLP%20Architecture%20for%20Vision)
 - [Original Paper](https://arxiv.org/pdf/2105.01601.pdf)
 
----
+--- -->
 
 ## Object Detection
 
@@ -293,31 +354,31 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 ---
 
-## Image Generation
+## Generative Model
 
 #### Generative Adversarial Networks
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20Generation/Generative%20Adversarial%20Networks)
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Generative%20Model/Generative%20Adversarial%20Networks)
 - [Original Paper](https://papers.nips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
 
 #### A Style-Based Generator Architecture for Generative Adversarial Networks
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20Generation/A%20Style-Based%20Generator%20Architecture%20for%20Generative%20Adversarial%20Networks)
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Generative%20Model/A%20Style-Based%20Generator%20Architecture%20for%20Generative%20Adversarial%20Networks)
 - [Original Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf)
 
 #### GAN Dissection: Visualizing and Understanding Generative Adversarial Networks
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20Generation/GAN%20Dissection%20-%20Visualizing%20and%20Understanding%20Generative%20Adversarial%20Networks)
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Generative%20Model/GAN%20Dissection%20-%20Visualizing%20and%20Understanding%20Generative%20Adversarial%20Networks)
 - [Original Paper](https://arxiv.org/pdf/1811.10597.pdf)
 
 #### Semantic Image Synthesis with Spatially-Adaptive Normalization
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20Generation/Semantic%20Image%20Synthesis%20with%20Spatially-Adaptive%20Normalization)
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Generative%20Model/Semantic%20Image%20Synthesis%20with%20Spatially-Adaptive%20Normalization)
 - [Original Paper](https://arxiv.org/pdf/1903.07291.pdf)
 
 #### Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
 
-- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20Generation/Unpaired%20Image-to-Image%20Translation%20using%20Cycle-Consistent%20Adversarial%20Networks)
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Generative%20Model/Unpaired%20Image-to-Image%20Translation%20using%20Cycle-Consistent%20Adversarial%20Networks)
 - [Original Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf)
 
 ---
@@ -327,10 +388,6 @@ To provide the perfect and rich understanding, each paper contains following thr
 ---
 
 ## Depth Estimation
-
----
-
-## Correspondence
 
 ---
 

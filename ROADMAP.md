@@ -1,7 +1,23 @@
 # **Road Map for Computer Vision Papers Reviews**
 
-## Implicit Neural Representation
+## Image-to-image Translation
 
+### Image to Image Translation
+
+#### Image-to-Image Translation with Conditional Adversarial Networks (CVPR 2017)
+
+- [ ] Paper
+- [ ] Review
+- [ ] Practice
+
+
+#### Bi-level Feature Alignment for Versatile Image Translation and Manipulation
+
+- [ ] Paper
+- [ ] Review
+- [ ] Practice
+
+### Style Transfer
 
 #### Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 
@@ -29,7 +45,7 @@
 
 #### Universal Style Transfer via Feature Transforms
 
-- [X] Paper
+- [ ] Paper
 - [ ] Review
 - [ ] Practice
 
@@ -52,24 +68,6 @@
 - [ ] Practice
 
 #### Geometric Style Transfer
-
-- [ ] Paper
-- [ ] Review
-- [ ] Practice
-
-
----
-
-## Image to Image Translation
-
-#### Image-to-Image Translation with Conditional Adversarial Networks (CVPR 2017)
-
-- [ ] Paper
-- [ ] Review
-- [ ] Practice
-
-
-#### Bi-level Feature Alignment for Versatile Image Translation and Manipulation
 
 - [ ] Paper
 - [ ] Review
