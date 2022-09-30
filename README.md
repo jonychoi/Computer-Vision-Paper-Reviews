@@ -51,6 +51,18 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 ---
 
+## Visual Correspondence
+
+#### NCNET - Neighbourhood consensus networks for estimating image correspondences
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/blob/main/Correspondence/Ncnet%20-%20Neighbourhood%20consensus%20networks%20for%20estimating%20image%20correspondences/paper-review-practice.ipynb)
+
+- [Original Paper](https://arxiv.org/abs/1810.10510)
+
+#### WeakAlign - End-to-end weakly-supervised semantic alignment
+- [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/blob/main/Correspondence/WeakAlign%20-%20End-to-end%20weakly-supervised%20semantic%20alignment/paper-review-practice.ipynb)
+
+- [Original Paper](https://arxiv.org/abs/1712.06861)
+
 ## Transformer
 
 #### [DETR] End-to-End Object Detection with Transformers
@@ -113,11 +125,10 @@ To provide the perfect and rich understanding, each paper contains following thr
 <!-- - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection/Sparse%20R-CNN) -->
 - [Original Paper](https://arxiv.org/pdf/2011.12450.pdf)
 
-#### YOLOv4: Optimal Speed and Accuracy of Object Detection**
+#### YOLOv4: Optimal Speed and Accuracy of Object Detection
 
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Object%20Detection/YOLOv4%20-%20Optimal%20Speed%20and%20Accuracy%20of%20Object%20Detection)
 - [Original Paper](https://arxiv.org/pdf/2004.10934v1.pdf)
-
 
 ---
 
@@ -137,21 +148,6 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 <!-- - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Segmentation/PointRend%20-%20Image%20Segmentation%20as%20Rendering) -->
 - [Original Paper](https://arxiv.org/pdf/1912.08193.pdf)
-
----
-
-## Convolutional Neural Network
-
-#### Deep Residual Learning for Image Recognition
-
-<!-- - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Convolutional%20Neural%20Network/Deep%20Residual%20Learning%20for%20Image%20Recognition) -->
-- [Original Paper](https://arxiv.org/pdf/1512.03385.pdf)
-
-
-#### EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
-
-<!-- - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Convolutional%20Neural%20Network/EfficientNet%20-%20Rethinking%20Model%20Scaling%20for%20Convolutional%20Neural%20Networks) -->
-- [Original Paper](https://arxiv.org/pdf/1905.11946.pdf)
 
 ---
 
@@ -211,9 +207,9 @@ To provide the perfect and rich understanding, each paper contains following thr
 <!-- - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Generative%20Model/Unpaired%20Image-to-Image%20Translation%20using%20Cycle-Consistent%20Adversarial%20Networks) -->
 - [Original Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf)
 
+---
 
-
-## Image to Image Translation
+## Image to Image Translation and Style Transfer
 
 #### Image-to-Image Translation with Conditional Adversarial Networks (CVPR 2017)
 <!-- 
@@ -226,12 +222,6 @@ To provide the perfect and rich understanding, each paper contains following thr
 <!-- - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Image%20to%20Image%20Translation/Bi-level%20Feature%20Alignment%20for%20Versatile%20Image%20Translation%20and%20Manipulation) -->
 - [Original Paper](https://arxiv.org/pdf/2107.03021.pdf)
 
-## Style Transfer
-
-#### Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
-
-<!-- - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Style%20Transfer/Batch%20Normalization%20-%20Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift) -->
-- [Original Paper](https://arxiv.org/pdf/1502.03167.pdf)
 
 #### Instance Normalization: The Missing Ingredient for Fast Stylization
 
@@ -249,7 +239,6 @@ To provide the perfect and rich understanding, each paper contains following thr
 <!-- - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Style%20Transfer/Semantic%20Image%20Synthesis%20with%20Spatially-Adaptive%20Normalization) -->
 - [Original Paper](https://arxiv.org/pdf/1903.07291.pdf)
 
-
 #### Universal Style Transfer via Feature Transforms
 
 <!-- - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Style%20Transfer/Universal%20Style%20Transfer%20via%20Feature%20Transforms) -->
@@ -259,21 +248,5 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 <!-- - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Style%20Transfer/A%20Neural%20Algorithm%20of%20Artistic%20Style) -->
 - [Original Paper](https://arxiv.org/pdf/1508.06576.pdf)
-
-
-#### Convolutional neural network architecture for geometric matching
-
-<!-- - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Style%20Transfer/Convolutional%20neural%20network%20architecture%20for%20geometric%20matching) -->
-- [Original Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Rocco_Convolutional_Neural_Network_CVPR_2017_paper.pdf)
-
-#### Perceptual Losses for Real-Time Style Transfer and Super-Resolution
-
-<!-- - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Style%20Transfer/Perceptual%20Losses%20for%20Real-Time%20Style%20Transfer%20and%20Super-Resolution) -->
-- [Original Paper](https://arxiv.org/pdf/1603.08155.pdf)
-
-#### Geometric Style Transfer
-
-<!-- - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/tree/main/Image%20to%20Image%20Translation/Style%20Transfer/Geometric%20Style%20Transfer) -->
-- [Original Paper](https://arxiv.org/pdf/2007.05471.pdf)
 
 ---
