@@ -14,7 +14,7 @@ The goal of the repository is providing an end to end study scripts of most read
 
 The prefered readers are not limited for researchers, but also for students and engieeners from beginner to the professions in computer vision fields .
 
-To provide the perfect and rich understanding, each paper contains following three main contents.
+To provide the rich understanding, each paper contains following three main contents.
 
 ### **Key Summary**
 
@@ -50,8 +50,7 @@ To provide the perfect and rich understanding, each paper contains following thr
 > *End to End Code Practice*
 
 ---
-
-## Visual Correspondence
+### Visual Correspondence
 
 #### NCNET - Neighbourhood consensus networks for estimating image correspondences
 - [Paper & Code Review](https://github.com/jonychoi/Computer-Vision-Paper-Reviews/blob/main/Correspondence/Ncnet%20-%20Neighbourhood%20consensus%20networks%20for%20estimating%20image%20correspondences/paper-review-practice.ipynb)
@@ -63,7 +62,9 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 - [Original Paper](https://arxiv.org/abs/1712.06861)
 
-## Transformer
+---
+
+### Transformera
 
 #### [DETR] End-to-End Object Detection with Transformers
 
@@ -93,7 +94,7 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 ---
 
-## Object Detection
+### Object Detection
 
 #### Feature Pyramid Networks for Object Detection
 
@@ -132,7 +133,7 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 ---
 
-## Segmentation
+### Segmentation
 
 #### Panoptic Feature Pyramid Networks
 
@@ -151,7 +152,7 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 ---
 
-## Representation Learning
+### Representation Learning
 
 #### Unsupervised Feature Learning via Non-Parametric Instance Discrimination
 
@@ -180,7 +181,7 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 ---
 
-## Generative Model
+### Generative Model
 
 #### Generative Adversarial Networks
 
@@ -209,7 +210,7 @@ To provide the perfect and rich understanding, each paper contains following thr
 
 ---
 
-## Image to Image Translation and Style Transfer
+### Image to Image Translation and Style Transfer
 
 #### Image-to-Image Translation with Conditional Adversarial Networks (CVPR 2017)
 <!-- 
