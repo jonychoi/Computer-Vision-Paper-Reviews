@@ -16,17 +16,11 @@ The prefered readers are not limited for researchers, but also for students and 
 
 To provide the rich understanding, each paper contains following three main contents.
 
-### **Key Summary**
+**Key Summary**: Providing key summaries and terminologies of the paper so that even beginner can study easily and perfectly.
 
-> Providing key summaries and terminologies of the paper so that even beginner can study easily and perfectly.
+**Code Practice**: Providing an end to end study script of codes for the paper.
 
-### **Code Practice**
-
-> Providing an end to end study script of codes for the paper.
-
-### **Jupyter Notebook edited Original Paper**
-
-> Providing the Jupyter notbook converted Original Paper for easy and fast modification and understanding.
+**Jupyter Notebook edited Original Paper**: Providing the Jupyter notbook converted Original Paper for easy and fast modification and understanding.
 
 ---
 
@@ -64,7 +58,7 @@ To provide the rich understanding, each paper contains following three main cont
 
 ---
 
-### Transformera
+### Transformers
 
 #### [DETR] End-to-End Object Detection with Transformers
 
